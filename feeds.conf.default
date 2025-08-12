@@ -1,4 +1,4 @@
 src-git packages https://github.com/ArenaWap/packages.git;packages
 src-git luci https://github.com/ArenaWap/packages.git;luci
 src-git routing https://github.com/ArenaWap/packages.git;routing
-src-git telephony https://github.com/ArenaWap/packages.git;packages
+src-git telephony https://github.com/ArenaWap/packages.git;telephony
